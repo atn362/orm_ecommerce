@@ -26,6 +26,9 @@ This project uses a MySQL database to sort numerous products by the product, cat
 
 # Images
 
+![database1](https://user-images.githubusercontent.com/77468756/117696525-03f4ac80-b187-11eb-93bd-f22d6ae01c1d.png)
+![database_created](https://user-images.githubusercontent.com/77468756/117696529-05be7000-b187-11eb-9f6e-aa618b13af79.png)
+![database_seeded](https://user-images.githubusercontent.com/77468756/117696538-07883380-b187-11eb-9522-40342c221541.png)
 
 
 # Installation
