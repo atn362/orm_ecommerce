@@ -5,19 +5,28 @@
 Ecommerce Database
 
 
-
-# Description
-
-This project uses a MySQL database to sort numerous products by the product, category and tag and through specif Ids.
-
 # Table of Contents 
-* [Title](#title)
+* [Description](#description)
+* [Videos](#videos)
+* [Images](#images)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contribution](#contribution)
 * [Tests](#tests)
 * [Questions](#questions)
+
+
+
+# Description
+
+This project uses a MySQL database to sort numerous products by the product, category and tag and through specific Ids.
+
+# Videos
+
+# Images
+
+
 
 # Installation
 What is needed to install this application? The user will run the project in the terminal and seed the information to the database by running the command of npm run seed.  This will organize the product information in its specific fields. Also, first before the seeding can occur...the database has to be created by running the database sql in the Db folder. 
