@@ -31,6 +31,12 @@ const productData = [
     stock: 22,
     category_id: 2,
   },
+  {
+    product_name: 'Radiohead CD',
+    price: 12.99,
+    stock: 25,
+    category_id: 3,
+  },
 ];
 
 const seedProducts = () => Product.bulkCreate(productData);
