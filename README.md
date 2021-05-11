@@ -20,7 +20,7 @@ Ecommerce Database
 
 # Description
 
-This project uses a MySQL database to sort numerous products by the product, category and tag and through specific Ids.
+This project uses a MySQL database to sort numerous products by the product, category and tag and through specific Ids. We then use the Insomnia application to test the apis on my local computer.  Testing to insure that all categories, products and tags can be tested through both their specific it broad model or by its id.
 
 # Videos
 
