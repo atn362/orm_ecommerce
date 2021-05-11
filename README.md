@@ -32,7 +32,7 @@ This project uses a MySQL database to sort numerous products by the product, cat
 
 
 # Installation
-What is needed to install this application? The user must first include their DB password, name and user into the env document, in order to secure a connection with the SQL extension on VS Code. Then the user will run the project in the terminal and seed the information to the database by running the command of npm run seed.  This will organize the product information in its specific fields. Also, first before the seeding can occur...the database has to be created by running the database sql in the Db folder. 
+What is needed to install this application? The user must first include their DB password, name and user into the env document, in order to secure a connection with the SQL extension on VS Code. Also need to install the MYSQL2 and sequelize npm packages to run this application. Then the user will run the project in the terminal and seed the information to the database by running the command of npm run seed.  This will organize the product information in its specific fields. Also, first before the seeding can occur...the database has to be created by running the database sql in the Db folder. 
 
 # Usage
 In order to use this app, run the app in the: It is utilized in the bash terminal, and will be demonstrated in the Insomnia application.
