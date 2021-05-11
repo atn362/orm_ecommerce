@@ -24,6 +24,12 @@ This project uses a MySQL database to sort numerous products by the product, cat
 
 # Videos
 
+Google Drive Clip:
+https://drive.google.com/file/d/1BaU6iCUR7b_EXSGEgqhpL3fmesy9Fbrt/preview
+
+YouTube Clip:
+https://youtu.be/RhBgBFhioQg
+
 # Images
 
 ![database1](https://user-images.githubusercontent.com/77468756/117696525-03f4ac80-b187-11eb-93bd-f22d6ae01c1d.png)
